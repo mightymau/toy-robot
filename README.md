@@ -1,4 +1,4 @@
-commands.txt can be found ob /public/commands/commands.txt <br />
+commands.txt can be found on /public/commands/commands.txt <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
